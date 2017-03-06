@@ -1,0 +1,27 @@
+{
+  "name": "koa-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://zhongwei1986@github.com/Zhongwei1986/koa-practice.git"
+  },
+  "keywords": [
+    "koa",
+    "jquery",
+    "pure.css"
+  ],
+  "author": "zhongwei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zhongwei1986/koa-practice/issues"
+  },
+  "homepage": "https://github.com/Zhongwei1986/koa-practice#readme",
+  "dependencies": {
+    "koa": "2.0.1"
+  }
+}
